@@ -1,0 +1,2 @@
+class GENERAL_SETTINGS:
+    SHOW_RAW_JSON_ENTRIES = False
